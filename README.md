@@ -56,4 +56,4 @@ altura e largura do elemento visual.</p>
 2. Uso da classe Matrix4 para a animação
 que auxilia na rotação do eixo de um
 Widget.</p>
-
+<hr>
