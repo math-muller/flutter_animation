@@ -18,7 +18,7 @@
 </blockquote>
 
 
-<h4>Fade Animation</h4>
+<h3>Fade Animation</h3>
 
 <p>Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
 
@@ -29,3 +29,13 @@ AnimationController
 4. Inicialização (initState)
 5. Criação do Widget da animação
 6. Evento que dispara ou inicia a animação</p>
+
+<h3>Pulse</h3>
+
+<p>O efeito de pulsação é muito parecido
+com o efeito de fade, as diferenças serão
+notas em:
+
+1. Tipo de animação
+2. Widget da animação, pois manipula a
+altura e largura do elemento visual.</p>
