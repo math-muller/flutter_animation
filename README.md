@@ -3,7 +3,7 @@
 <h4>Construir animações em flutter.</h4>
 
 <blockquote>
-  -  A instância do objeto Animation sabe todo o estado a animação (iniciou, parou, avançando ou retrocedendo), mas ele não sabe nada sobre o que está sendo exibido na tela.
+  <b>A instância do objeto Animation sabe todo o estado a animação (iniciou, parou, avançando ou retrocedendo), mas ele não sabe nada sobre o que está sendo exibido na tela.</b>
   
   - O AnimationController gerencia o objeto Animation
   
