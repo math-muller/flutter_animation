@@ -17,7 +17,7 @@
   mudanças de status.
 </blockquote>
 
-
+<hr>
 <h3>Fade Animation</h3>
 
 <p>Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
@@ -29,7 +29,7 @@ AnimationController
 4. Inicialização (initState)
 5. Criação do Widget da animação
 6. Evento que dispara ou inicia a animação</p>
-
+<hr>
 <h3>Pulse</h3>
 
 <p>O efeito de pulsação é muito parecido com o efeito de fade, as diferenças serão notas em:
@@ -38,7 +38,7 @@ AnimationController
 2. Widget da animação, pois manipula a
 altura e largura do elemento visual.</p>
 
-
+<hr>
 <h3>Slide</h3>
 
 <p>Igual o evento pulse, seguem os pontos de alteração do evento Slide:
@@ -47,7 +47,7 @@ altura e largura do elemento visual.</p>
 2. Widget da animação, pois manipula a
 altura e largura do elemento visual.</p>
 
-
+<hr>
 <h3>Flip</h3>
 
 <p>É um efeito de giro, a forma de construção é muito parecida com os efeitos anterior, segue as diferenças:
