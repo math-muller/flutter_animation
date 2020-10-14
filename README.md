@@ -16,3 +16,15 @@
   - Listeners e StatusListeners monitoram as animações e suas
   mudanças de status.
 </blockquote>
+
+
+<h4>Fade Animation</h4>
+Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
+
+1. Herança de classe.
+2. Criação dos objetos Animation e
+AnimationController
+3. Dispose
+4. Inicialização (initState)
+5. Criação do Widget da animação
+6. Evento que dispara ou inicia a animação
