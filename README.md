@@ -20,7 +20,7 @@
 
 <h4>Fade Animation</h4>
 
-Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
+<p>Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
 
 1. Herança de classe.
 2. Criação dos objetos Animation e
@@ -28,4 +28,4 @@ AnimationController
 3. Dispose
 4. Inicialização (initState)
 5. Criação do Widget da animação
-6. Evento que dispara ou inicia a animação
+6. Evento que dispara ou inicia a animação</p>
