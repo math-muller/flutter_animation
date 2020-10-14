@@ -32,10 +32,28 @@ AnimationController
 
 <h3>Pulse</h3>
 
-<p>O efeito de pulsação é muito parecido
-com o efeito de fade, as diferenças serão
-notas em:
+<p>O efeito de pulsação é muito parecido com o efeito de fade, as diferenças serão notas em:
 
 1. Tipo de animação
 2. Widget da animação, pois manipula a
 altura e largura do elemento visual.</p>
+
+
+<h3>Slide</h3>
+
+<p>Igual o evento pulse, seguem os pontos de alteração do evento Slide:
+  
+1. Tipo de animação
+2. Widget da animação, pois manipula a
+altura e largura do elemento visual.</p>
+
+
+<h3>Flip</h3>
+
+<p>É um efeito de giro, a forma de construção é muito parecida com os efeitos anterior, segue as diferenças:
+
+1. Tipo de animação
+2. Uso da classe Matrix4 para a animação
+que auxilia na rotação do eixo de um
+Widget.</p>
+
