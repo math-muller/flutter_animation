@@ -19,8 +19,9 @@
 
 
 <h4>Fade Animation</h4>
+
 Para implementar a animação precisamos nos atentar a 6 grandes partes de código, sendo elas:
-<br/>
+
 1. Herança de classe.
 2. Criação dos objetos Animation e
 AnimationController
